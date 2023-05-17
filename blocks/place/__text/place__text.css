@@ -8,7 +8,7 @@
     color: #FFFFFF
 }
 
-@media screen and (max-width: 1279x) {
+@media screen and (max-width: 1279px) {
     .place__text {
         max-width: 456px;
     }

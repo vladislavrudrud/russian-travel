@@ -10,7 +10,7 @@
     color: #FFFFFF;
 }
 
-@media screen and (max-width: 1279x) {
+@media screen and (max-width: 1279px) {
     .cover__title {
     margin: 195px auto 32px;
     }
@@ -20,7 +20,6 @@
     .cover__title {
       margin: 115px auto 32px;
     }
-    
 }
 
 @media screen and (max-width: 767px) {
