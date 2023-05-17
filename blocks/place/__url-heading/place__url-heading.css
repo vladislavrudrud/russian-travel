@@ -8,6 +8,7 @@
     line-height: 170%;
     letter-spacing: 2px;
     color: #AAAAAA;
+    text-transform: uppercase;
 }
 
 @media screen and (max-width: 1023px) {
@@ -20,8 +21,6 @@
 @media screen and (max-width: 767px) {
     .place__url-heading {
         max-width: 288px;
-        line-height: 12px;
         align-self: start;
-        
     }
 }
